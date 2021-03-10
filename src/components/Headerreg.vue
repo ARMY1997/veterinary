@@ -5,7 +5,7 @@
     <div class="navbar">
         <div class="container">
             <div class="navbar-content">
-                <router-link class="header-logo" to="/">UImini</router-link>
+                <router-link class="header-logo" to="/">MyVet</router-link>
             <div class="button-burger" @click="menyShow=!menyShow">
                 <span class="line line-1"></span>
                 <span class="line line-2"></span>
